@@ -32,6 +32,9 @@ Un proyecto que utiliza tecnologías de Javascript para hacer una aplicación we
 <br>
 
 ### 3. Técnicas de análisis de información / Algoritmos a utilizar
+- **Haar Cascade Classifier** <br>
+Visualicación del algoritmo: https://www.youtube.com/watch?v=hPCTwxF0qf4<br>
+Documentación: https://docs.opencv.org/4.1.0/d7/d8b/tutorial_py_face_detection.html
 - **Aprendizaje supervisado**
   El aprendizaje supervisado nos servirá para entrenar nuestro algoritmo con las imágenes de los usuarios que queremos que reconozca.
 <br>
